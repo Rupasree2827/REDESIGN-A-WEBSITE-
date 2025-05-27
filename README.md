@@ -26,5 +26,6 @@ In addition to the visual and structural improvements, I focused on accessibilit
 
 
 #OUTPUT#:
-![Image](https://github.com/user-attachments/assets/5f0ec945-d129-49af-9f7b-5dbed5833b2b)
 ![Image](https://github.com/user-attachments/assets/fee97ed1-8a99-4349-9021-1bcb11a8f103)
+![Image](https://github.com/user-attachments/assets/5f0ec945-d129-49af-9f7b-5dbed5833b2b)
+
